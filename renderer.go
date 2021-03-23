@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"unicode/utf8"
 
-	"github.com/AlecAivazis/survey/v2/core"
-	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/yext/survey/v2/core"
+	"github.com/yext/survey/v2/terminal"
 	goterm "golang.org/x/crypto/ssh/terminal"
 )
 

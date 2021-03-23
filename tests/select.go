@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/AlecAivazis/survey/v2"
-	"github.com/AlecAivazis/survey/v2/tests/util"
+	"github.com/yext/survey/v2"
+	"github.com/yext/survey/v2/tests/util"
 )
 
 var answer = ""
